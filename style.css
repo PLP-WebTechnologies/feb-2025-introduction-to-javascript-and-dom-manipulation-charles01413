@@ -1,0 +1,10 @@
+/* styles.css */
+#dynamicText {
+  font-size: 20px;
+  color: blue;
+}
+
+.highlight {
+  background-color: yellow;
+  font-weight: bold;
+}
